@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * This is a class.
+ * This is a class. 
  */
 public class Greeter {
   public Long magico = new Long("2333");
